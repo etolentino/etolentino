@@ -4,7 +4,6 @@
 
 I worked for 10 years as a systems developer, during which I applied and perfected my knowledge of the SQL language. I was in the Brazilian Army for 8 years, where I matured personally and professionally. I learned how to be flexible, adapt to changes, manage large teams, and also work as a group. I have 13 years of experience in the administration of Linux servers, and for 7 of those years, I was responsible for installations, configurations, optimizations, and maintenance of MySQL and MySQL Cluster servers. Since 2021, I have also started managing Oracle database servers. I am in constant pursuit of evolution and improvement of my knowledge, so I learned to manage MongoDB servers, obtained knowledge of Amazon Cloud administration, acquired knowledge of Data Science, in addition to improving my skills in related areas. I am now on my way to earning my Oracle Certified Professional (OCP) certification in Oracle Database.
 
-
 <p align="left">
     <a href="https://github.com/etolentino?tab=repositories&sort=stargazers">
         <img 
@@ -22,11 +21,9 @@ I worked for 10 years as a systems developer, during which I applied and perfect
     </a>
 </p>
 
----
-
 ### 🖥️ Linguagens e Tecnologias
 
-<p align="left">
+<p align= left>
     <img 
         align="left" 
         alt="Linux Server"
@@ -130,7 +127,7 @@ I worked for 10 years as a systems developer, during which I applied and perfect
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-    />
+    /> 
     <img 
         align="left" 
         alt="Java"
@@ -187,26 +184,25 @@ I worked for 10 years as a systems developer, during which I applied and perfect
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
     />
+    <br>
 </p>
+
+<br>
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
+<p align=left>
+<img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="300" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=etolentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=etolentino&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etolentino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="300" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=etolentino&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
